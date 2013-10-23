@@ -1,0 +1,1 @@
+Entry.create([{name: "I hope this Ember-Rails things works out"}])
